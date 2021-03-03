@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/311846/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Mon, 01 Feb 2021 21:27:55 UTC
+update_date: Wed, 03 Mar 2021 11:59:26 UTC
 stages:
 - id: 543
   step: 8970
@@ -25,11 +25,17 @@ stages:
   is_completed: true
 - id: 549
   step: 8976
-  is_completed: false
+  is_completed: true
 topics:
   0:
+  - title: Introduction to operating systems
+    theory_id: 9704
   - title: IDE
     theory_id: 10996
+  - title: Command line overview
+    theory_id: 8977
+  - title: Parameters and options
+    theory_id: 9746
   - title: Introduction to Python
     theory_id: 5204
   - title: Overview of the basic program
@@ -46,10 +52,6 @@ topics:
     theory_id: 5913
   - title: Program with numbers
     theory_id: 5872
-  - title: List
-    theory_id: 5979
-  - title: Dictionary
-    theory_id: 6481
   - title: Invoking a function
     theory_id: 5891
   - title: Declaring a function
@@ -66,24 +68,16 @@ topics:
     theory_id: 5926
   - title: For loop
     theory_id: 6065
-  - title: Dictionary methods
-    theory_id: 9008
   - title: Load module
     theory_id: 6019
   - title: Create module
     theory_id: 6057
   - title: Packages
     theory_id: 6384
-  - title: Introduction to operating systems
-    theory_id: 9704
-  - title: Command line overview
-    theory_id: 8977
-  - title: Parameters and options
-    theory_id: 9746
-  - title: Pip
-    theory_id: 6230
   - title: PyCharm basics
     theory_id: 6193
+  - title: Pip
+    theory_id: 6230
   - title: Basic data types
     theory_id: 5852
   - title: Integer arithmetic
@@ -94,12 +88,18 @@ topics:
     theory_id: 5859
   - title: String formatting
     theory_id: 6037
+  - title: List
+    theory_id: 5979
   - title: Boolean logic
     theory_id: 6025
   - title: Comparisons
     theory_id: 5920
+  - title: Dictionary
+    theory_id: 6481
   - title: Basic string methods
     theory_id: 6842
+  - title: Dictionary methods
+    theory_id: 9008
   1:
   - title: World Wide Web
     theory_id: 6633
@@ -115,14 +115,10 @@ topics:
     theory_id: 7536
   - title: HTML page structure
     theory_id: 6491
-  - title: XML
-    theory_id: 6901
   - title: Block-level elements
     theory_id: 7271
   - title: Inline Elements
     theory_id: 7518
-  - title: HTML attributes id and class
-    theory_id: 7527
   - title: Comments
     theory_id: 7502
   - title: What is CSS
@@ -131,8 +127,12 @@ topics:
     theory_id: 7418
   - title: Basic syntax
     theory_id: 7722
+  - title: HTML attributes id and class
+    theory_id: 7527
   - title: CSS Selectors
     theory_id: 7738
+  - title: XML
+    theory_id: 6901
   - title: 'Requests: retrieving data'
     theory_id: 8603
   - title: BeautifulSoup
@@ -142,19 +142,19 @@ topics:
     theory_id: 8742
   - title: Components of computational thinking
     theory_id: 8745
-  - title: Indexes
-    theory_id: 6189
-  - title: Slicing
-    theory_id: 6177
   - title: Functional decomposition
     theory_id: 9571
   - title: Escape sequences
     theory_id: 7130
+  - title: Indexes
+    theory_id: 6189
+  - title: Slicing
+    theory_id: 6177
   3:
-  - title: Operations with list
-    theory_id: 6031
   - title: While loop
     theory_id: 5940
+  - title: Operations with list
+    theory_id: 6031
   4:
   - title: Files
     theory_id: 6989

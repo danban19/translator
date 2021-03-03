@@ -1595,13 +1595,10 @@ files:
 
     English Translations:
   learner_created: true
-- name: derechos.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/99/stages/548/implement#comment
 status: Solved
 feedback:
   message: Congratulations! Continue on <a href="https://hyperskill.org/projects/99/stages/548/implement">JetBrains
     Academy</a>
   time: Mon, 01 Feb 2021 22:04:03 UTC
-record: -1
+record: 6

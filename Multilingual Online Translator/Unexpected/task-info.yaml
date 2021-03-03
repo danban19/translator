@@ -182,6 +182,16 @@ files:
     if __name__ == '__main__':
         TranslatorTest('translator.translator').run_tests()
   learner_created: false
+- name: hello.txt
+  visible: true
+  learner_created: true
+- name: brrrrrrrrrrrrrrrrk.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/99/stages/549/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/99/stages/549/implement">JetBrains
+    Academy</a>
+  time: Wed, 03 Mar 2021 13:34:15 UTC
 record: -1
